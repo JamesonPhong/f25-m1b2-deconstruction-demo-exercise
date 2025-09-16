@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Get Player Name
+Console.WriteLine("Greetings Traveller! What is your name?");
+string playerName = Console.ReadLine();
+Console.WriteLine("");
